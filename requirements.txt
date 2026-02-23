@@ -1,0 +1,7 @@
+google-genai
+pyautogui
+pyttsx3
+speechrecognition
+keyboard
+pytesseract
+pillow
